@@ -1,0 +1,43 @@
+@import "settings";
+@import "foundation";
+@import "color-range";
+
+.topic {
+	min-height:225px;
+	-webkit-box-shadow: 3px 3px 9px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    3px 3px 9px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         3px 3px 9px 0px rgba(50, 50, 50, 0.75);
+}
+
+@for $i from 1 through length($lobst-color-range) {
+	.topic-#{$i - 1} {
+		@extend .topic;
+		background-color: nth($lobst-color-range, $i);
+	}
+}
+
+.topic-desc{
+	@extend p;
+	font-size:75%;
+	line-height: 1.3em;
+	margin-bottom:1em;
+	font-color:$lobst-dark-grey;
+}
+
+.topic-link{
+	@extend p;
+	line-height: 1.2em;
+	margin: 0.5em 0;
+}
+
+.main-content{
+	margin: 2rem 0;
+	
+	.columns{
+		padding:7pt 12pt;
+	}
+}
+
+.site-header{
+	margin-top: 2rem;
+}

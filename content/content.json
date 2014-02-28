@@ -1,0 +1,211 @@
+[
+	{
+		"topic":"AWS EC2",
+		"desc": "Amazon Elastic Compute Cloud",
+		"url": "https://aws.amazon.com/ec2/",
+		"links":[
+			{
+				"name":	"Getting Started with Amazon EC2 Linux Instances",
+				"desc":	"Let's get started with Amazon Elastic Compute Cloud (Amazon EC2) by launching, connecting to, and using a Linux instance.",
+				"url":	"http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html"
+			}
+		]	
+	},
+    {
+        "topic": "Chef",
+        "url": "http://getchef.com",
+        "desc": "An IT-automation framework based on Ruby.",
+        "links": [
+            {
+                "desc": "#learnchef is a broad collection of resources specifically designed to help you learn Chef.",
+                "name": "Learn Chef",
+                "url": "https://learnchef.opscode.com/"
+            },
+            {
+                "desc": "If all you want is to set up and maintain a single VM, this tutorial will help.",
+                "name": "Managing a single server with chef",
+                "url": "http://www.opinionatedprogrammer.com/2011/06/chef-solo-tutorial-managing-a-single-server-with-chef/"
+            }
+        ]
+    },
+    {
+        "topic": "DevOps",
+		"desc": "a response to the interdependence of software development and IT operations.",
+        "url": "http://en.wikipedia.org/wiki/DevOps",
+		"links": [
+			{
+				"name": "IT Revolution Manifesto",
+				"url": "http://itrevolution.com/manifesto/",
+				"desc": "We know the current system is not working. We know there is a better way. We know that finding a solution will unlock IT’s true potential."
+			},
+			{
+				"url": "http://itrevolution.com/learn-more-about-concepts-in-phoenix-project/"
+			},
+			{
+				"name": "DevOps Patterns Distilled - Gene Kim",
+				"url": "http://www.youtube.com/watch?v=9jD200ZxIrQ",
+				"desc": "The intent behind the \"DevOps Cookbook\" project is to catalog what the \"high performing DevOps organizations\" all have in common, and then provide prescriptive guidance so that other organizations can replicate their results."
+			},
+			{
+				"name": "DevOps is not an absolute. It's a range",
+				"url": "http://vimeo.com/31367609",
+				"desc": "devopsdays goteborg 2011 - Mitchell Hashimoto"
+			}
+		]
+    },
+	{
+		"topic":"Vagrant",
+		"desc": "a tool for building complete development environments.",
+		"url": "http://www.vagrantup.com/",
+		"links":[
+			{
+				"name":	"Getting Started",
+				"desc":	"The Vagrant getting started guide will walk you through your first Vagrant project, and show off the basics of the major features Vagrant has to offer.",
+				"url":	"http://docs.vagrantup.com/v2/getting-started/index.html"
+			}
+		]	
+	},
+	{
+		"topic":"Docker",
+		"desc": "pack, ship and run any application as a lightweight container",
+		"url": "https://www.docker.io/",
+		"links":[
+			{
+				"desc":	"",
+				"name":	"",
+				"url":	""
+			}
+		]	
+	},		
+	{
+		"topic":"",
+		"desc": "",
+		"url": "",
+		"links":[
+			{
+				"desc":	"",
+				"name":	"",
+				"url":	""
+			}
+		]	
+	},
+	{
+		"topic":"",
+		"desc": "",
+		"url": "",
+		"links":[
+			{
+				"desc":	"",
+				"name":	"",
+				"url":	""
+			}
+		]	
+	},
+	{
+		"topic":"",
+		"desc": "",
+		"url": "",
+		"links":[
+			{
+				"desc":	"",
+				"name":	"",
+				"url":	""
+			}
+		]	
+	},
+	{
+		"topic":"",
+		"desc": "",
+		"url": "",
+		"links":[
+			{
+				"desc":	"",
+				"name":	"",
+				"url":	""
+			}
+		]	
+	},{
+		"topic":"",
+		"desc": "",
+		"url": "",
+		"links":[
+			{
+				"desc":	"",
+				"name":	"",
+				"url":	""
+			}
+		]	
+	},{
+		"topic":"",
+		"desc": "",
+		"url": "",
+		"links":[
+			{
+				"desc":	"",
+				"name":	"",
+				"url":	""
+			}
+		]	
+	},
+	{
+		"topic":"",
+		"desc": "",
+		"url": "",
+		"links":[
+			{
+				"desc":	"",
+				"name":	"",
+				"url":	""
+			}
+		]	
+	},{
+		"topic":"",
+		"desc": "",
+		"url": "",
+		"links":[
+			{
+				"desc":	"",
+				"name":	"",
+				"url":	""
+			}
+		]	
+	},{
+		"topic":"",
+		"desc": "",
+		"url": "",
+		"links":[
+			{
+				"desc":	"",
+				"name":	"",
+				"url":	""
+			}
+		]	
+	},{
+		"topic":"",
+		"desc": "",
+		"url": "",
+		"links":[
+			{
+				"desc":	"",
+				"name":	"",
+				"url":	""
+			}
+		]	
+	},{
+		"topic":"About Lobsterion and Sören",
+		"desc": "",
+		"url": "http://www.lobsterion.de",
+		"links":[
+			{
+				"desc":	"",
+				"name":	"Lobsterion Homepage",
+				"url":	"http://www.lobsterion.de"
+			},
+			{
+				"desc":	"",
+				"name":	"Follow Sören on Twitter",
+				"url":	""
+			}
+		]	
+	}		
+]

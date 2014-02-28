@@ -1,0 +1,29 @@
+//
+// FOUNDATION SETTINGS
+//
+@import "foundation/functions";
+
+$lobst-blue:           #07485e;
+$lobst-orange:         #ff9900; 
+$lobst-white:          #f9f9f9;
+$lobst-light-grey-1:   #e6e6e6; 
+$lobst-light-grey-2:   #d6d6d6;
+$lobst-dark-grey:      #333; 
+
+// We use these as default colors throughout
+$primary-color: $lobst-blue;
+$secondary-color: $lobst-orange;
+
+$body-font-family: "myriad-pro", Arial;
+$body-bg: $lobst-light-grey-1;
+$body-font-color: $lobst-dark-grey;
+
+$small-font-size: 80%;
+
+$paragraph-line-height: 1.5rem; 
+$paragraph-margin-bottom: $paragraph-line-height !default;
+
+$header-font-family: "katarine-web","Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+$header-font-weight: medium;
+// $header-font-style: normal;
+$header-font-color: $lobst-blue;
